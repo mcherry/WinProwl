@@ -95,7 +95,7 @@
         Console.WriteLine("WinProwl Version 1.0")
         Console.WriteLine("Written by Mike Cherry <mcherry@inditech.org>")
         Console.WriteLine("")
-        Console.WriteLine("Usage: WinProwl.exe -a " + Chr(34) + "Name" + Chr(34) + " -e " + Chr(34) + "Event" + Chr(34) + " -d " + Chr(34) + "Description" + Chr(34) + " -p Priority")
+        Console.WriteLine("Usage: WinProwl.exe -k apikey -a " + Chr(34) + "Name" + Chr(34) + " -e " + Chr(34) + "Event" + Chr(34) + " -d " + Chr(34) + "Description" + Chr(34) + " -p Priority")
         Console.WriteLine("")
         Console.WriteLine("-p is optional and defaults to 0")
     End Sub
