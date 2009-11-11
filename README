@@ -1,0 +1,4 @@
+WinProwl 1.0
+Written by Mike Cherry <mcherry@inditech.org>
+
+Quick little app to send prowl notifications from the command line. This is useful, for example, to send notifications quickly from things like uTorrent.
