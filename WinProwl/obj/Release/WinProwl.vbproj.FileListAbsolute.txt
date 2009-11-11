@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\bin\Release\WinProwl.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\bin\Release\WinProwl.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\bin\Release\WinProwl.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\bin\Release\WinProwl.exe.config
