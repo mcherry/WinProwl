@@ -8,3 +8,7 @@ C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Releas
 C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.xml
 C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\obj\Release\WinProwl.pdb
 C:\Users\Mike\Documents\Visual Studio 2008\Projects\WinProwl\WinProwl\bin\Release\WinProwl.exe.config
+C:\GitStuff\WinProwl\WinProwl\bin\Release\WinProwl.exe.config
+C:\GitStuff\WinProwl\WinProwl\obj\Release\WinProwl.exe
+C:\GitStuff\WinProwl\WinProwl\obj\Release\WinProwl.xml
+C:\GitStuff\WinProwl\WinProwl\obj\Release\WinProwl.pdb

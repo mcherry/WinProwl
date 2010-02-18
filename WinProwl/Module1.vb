@@ -2,7 +2,7 @@
 
     Sub Main(ByVal sArgs() As String)
         Dim oWeb As New System.Net.WebClient
-        Dim strResult As String
+        Dim strResult As String = Nothing
         Dim boolAuthorized As Boolean = True
 
         If sArgs.Count = 0 Then
